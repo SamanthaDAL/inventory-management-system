@@ -1,0 +1,18 @@
+Customer Name: Dora 
+Customer Address: Taman D
+Customer Email: dora@gmail.com
+Customer Phone: 013-121 4543
+Delivery ID: DO004
+Order Date: 20230606
+Delivery Product:
+----------------------------------------------
+|Barcode |Price per unit|Quantity|Total Price|
+----------------------------------------------
+|KD14203 |60.0          |83      |4980.0     |
+|KD14403 |60.0          |83      |4980.0     |
+----------------------------------------------
+Total Item: 2
+Total Quantity: 166
+Total Price: 9960.0
+Purchase Status: Order being prepared.
+Carrier: DHL        

@@ -1,0 +1,19 @@
+Purchase ID: PO001
+Purchase Date: 20230607
+Purchase Product:
+----------------------------------------------
+|Barcode |Price per unit|Quantity|Total Price|
+----------------------------------------------
+|KT14303 |45.0          |280     |12600.0    |
+|KT14503 |45.0          |280     |12600.0    |
+|KT14203 |45.0          |280     |12600.0    |
+|KT14403 |45.0          |280     |12600.0    |
+|KT14603 |45.0          |280     |12600.0    |
+|KT14803 |45.0          |280     |12600.0    |
+----------------------------------------------
+Total Item: 6
+Total Quantity: 1680
+Total Price: 75600.0
+Purchase Status: Pending
+Supplier: UMS FKI
+Product Quantity: 1680

@@ -1,0 +1,17 @@
+Customer Name: Ben  
+Customer Address: Taman B
+Customer Email: ben@gmail.com
+Customer Phone: 013-224 3126
+Delivery ID: DO002
+Order Date: 20230606
+Delivery Product:
+----------------------------------------------
+|Barcode |Price per unit|Quantity|Total Price|
+----------------------------------------------
+|KK14202 |40.0          |115     |4600.0     |
+----------------------------------------------
+Total Item: 1
+Total Quantity: 115
+Total Price: 4600.0
+Purchase Status: Order being prepared.
+Carrier: Poslaju    

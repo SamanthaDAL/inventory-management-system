@@ -1,0 +1,18 @@
+Customer Name: Cin  
+Customer Address: Taman C
+Customer Email: cin@gmail.com
+Customer Phone: 016-113 8755
+Delivery ID: DO003
+Order Date: 20230606
+Delivery Product:
+----------------------------------------------
+|Barcode |Price per unit|Quantity|Total Price|
+----------------------------------------------
+|KP14102 |40.0          |97      |3880.0     |
+|KP14203 |60.0          |97      |5820.0     |
+----------------------------------------------
+Total Item: 2
+Total Quantity: 194
+Total Price: 9700.0
+Purchase Status: Order being prepared.
+Carrier: J&T Express
