@@ -1,0 +1,25 @@
+# Java build artifacts
+*.class
+*.jar
+*.war
+out/
+bin/
+build/
+target/
+
+# IDE / operating system
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated order records: keep only the curated examples
+IMS_GUI/PO/*.txt
+IMS_GUI/DO/*.txt
+IMS_NEWVERSION/PO/*.txt
+IMS_NEWVERSION/DO/*.txt
+!IMS_GUI/PO/PO00[1-4].txt
+!IMS_GUI/DO/DO00[1-4].txt
+!IMS_NEWVERSION/PO/PO00[1-4].txt
+!IMS_NEWVERSION/DO/DO00[1-4].txt
