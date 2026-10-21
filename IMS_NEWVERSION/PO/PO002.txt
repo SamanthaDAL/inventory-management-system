@@ -1,0 +1,13 @@
+Purchase ID: PO002
+Purchase Date: 20230607
+Purchase Product:
+----------------------------------------------
+|Barcode |Price per unit|Quantity|Total Price|
+----------------------------------------------
+|KK14202 |30.0          |120     |3600.0     |
+----------------------------------------------
+Total Item: 1
+Total Quantity: 120
+Total Price: 3600.0
+Purchase Status: Pending
+Supplier: UMS SE 

@@ -1,0 +1,14 @@
+Purchase ID: PO004
+Purchase Date: 20230607
+Purchase Product:
+----------------------------------------------
+|Barcode |Price per unit|Quantity|Total Price|
+----------------------------------------------
+|KD14203 |45.0          |100     |4500.0     |
+|KD14403 |45.0          |100     |4500.0     |
+----------------------------------------------
+Total Item: 2
+Total Quantity: 200
+Total Price: 9000.0
+Purchase Status: Pending
+Supplier: UMS DS 

@@ -1,0 +1,15 @@
+Purchase ID: PO003
+Purchase Date: 20230607
+Purchase Product:
+----------------------------------------------
+|Barcode |Price per unit|Quantity|Total Price|
+----------------------------------------------
+|KP14102 |30.0          |100     |3000.0     |
+|KP14203 |45.0          |100     |4500.0     |
+----------------------------------------------
+Total Item: 2
+Total Quantity: 200
+Total Price: 7500.0
+Purchase Status: Pending
+Supplier: UMS NE 
+Product Quantity: 200
